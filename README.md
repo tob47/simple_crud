@@ -2,6 +2,12 @@ Contoh CRUD Sederhana dengan PHP dan MySQL
 =========
 Simple CRUD dengan php dan mysql
 
+Artikel
+--------
+Untuk Arikel bisa kunjung tautan berikut ini :
+
+[Contoh CRUD Sederhana dengan PHP dan MySQL](http://www.tobiweb.id/2016/04/contoh-crud-sederhana-dengan-script-php-dan-mysql-tobiweb-sederhana.html)
+
 Technology
 -------
 HTML, CSS, PHP MURNI dan Database MySQL.
@@ -45,12 +51,6 @@ Specials Thank
 Donations
 ---------
 *  No. rekening : 302501024583538  a.n Moh. Tobiin (BANK BRI)
-
-Artikel
---------
-Untuk Arikel bisa kunjung tautan berikut ini :
-
-[Tobiweb ID](http://www.tobiweb.id)
 
 Copyright & License
 -------
